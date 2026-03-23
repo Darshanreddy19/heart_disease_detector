@@ -1,0 +1,1 @@
+{"RandomForest": {"accuracy": 100.0, "cv_score": 99.71}, "GradientBoosting": {"accuracy": 98.05, "cv_score": 98.24}, "LogisticRegression": {"accuracy": 80.98, "cv_score": 84.59}, "SVM": {"accuracy": 92.68, "cv_score": 92.1}}
